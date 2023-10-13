@@ -1,0 +1,63 @@
+{
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "[markdown]": {
+    "editor.rulers": [
+      {
+        "column": 80,
+        "color": "#5BA150"
+      }
+    ]
+  },
+  "[powershell]": {
+    "editor.rulers": [
+      {
+        "column": 80,
+        "color": "#5BA150"
+      },
+      {
+        "column": 120,
+        "color": "#0277BD"
+      }
+    ]
+  },
+  "files.defaultLanguage": "powershell",
+  "files.trimTrailingWhitespace": true,
+  "editor.renderWhitespace": "all",
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
+  "files.encoding": "utf8",
+  "powershell.codeFormatting.preset": "OTBS",
+  "powershell.codeFormatting.alignPropertyValuePairs": true,
+  "powershell.codeFormatting.whitespaceInsideBrace": true,
+  "powershell.codeFormatting.whitespaceBeforeOpenParen": true,
+  "powershell.codeFormatting.whitespaceBeforeOpenBrace": true,
+  "powershell.codeFormatting.addWhitespaceAroundPipe": true,
+  "powershell.codeFormatting.whitespaceAroundOperator": true,
+  "powershell.codeFormatting.whitespaceAfterSeparator": true,
+  "files.exclude": {
+    "obj": true,
+    "bin": true
+  },
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[jsonc]": {
+    "editor.tabSize": 2
+  },
+  "explorer.compactFolders": false,
+  "files.associations": {
+    "*.yml": "azure-pipelines"
+  },
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#21681b"
+  },
+  "cSpell.enableFiletypes": [
+    "azure-pipelines",
+    "powershell",
+    "markdown"
+  ]
+}

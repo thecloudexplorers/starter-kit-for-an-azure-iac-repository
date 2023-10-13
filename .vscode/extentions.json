@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-azure-devops.azure-pipelines",
+    "ms-vscode.powershell",
+    "ms-azuretools.vscode-bicep",
+    "davidanson.vscode-markdownlint",
+    "rosshamish.kuskus-kusto-syntax-highlighting"
+  ]
+}
