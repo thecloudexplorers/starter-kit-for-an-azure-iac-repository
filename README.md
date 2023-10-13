@@ -11,6 +11,12 @@ providing the necessary structure.
 
 ## How to use this repository
 
+Each of the top level folders in this repository contains a README.md file which
+provides more information about the purpose of the folder and how to use it.
+Feel free to browse through the structure and remember that this is a starter
+kit. You can use it as a starting point and modify it to fit your specific
+needs.
+
 1. Clone or fork the repo
 2. Modify the structure to fit your specific needs
 3. Star it to keep track of updates ;-)
