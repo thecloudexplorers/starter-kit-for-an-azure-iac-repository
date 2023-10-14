@@ -6,7 +6,7 @@
   "[markdown]": {
     "editor.rulers": [
       {
-        "column": 80,
+        "column": 100,
         "color": "#5BA150"
       }
     ]

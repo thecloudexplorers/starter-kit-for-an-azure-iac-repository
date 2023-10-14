@@ -3,6 +3,8 @@
     "ms-azure-devops.azure-pipelines",
     "ms-vscode.powershell",
     "ms-azuretools.vscode-bicep",
+    "streetsidesoftware.code-spell-checker",
+    "marvhen.reflow-markdown",
     "davidanson.vscode-markdownlint",
     "rosshamish.kuskus-kusto-syntax-highlighting"
   ]
