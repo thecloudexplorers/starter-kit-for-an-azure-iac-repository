@@ -3,9 +3,9 @@
 The main folder for any Infrastructure as Code files. As best practices dictate
 these are divided into two categories: modules and controllers.
 
-## Module
+## Modules
 
-These are essentially Bicep files that are used as a unit of code reuse. A
+These are essentially IaC files that are used as a unit of code reuse. A
 module can encapsulate a single resource or set of resources, and can be called
 from controllers. This allows you to break down deployments into smaller, more
 manageable components, and reuse common pieces.
